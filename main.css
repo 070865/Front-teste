@@ -1,0 +1,60 @@
+.header-1 
+body {
+width: 100%;
+height: 100%;
+}
+
+
+
+    .menu-principal{ 
+width: 100%;       
+background-color: #000000;
+height: 60px;
+}
+
+
+main {
+margin: 0 auto;
+width: 980px;
+float: left;
+position: relative;
+width: 80%;
+}
+.redes-sociais ul li {
+    margin-left: 12px;
+  display: inline-block;
+  float: left;
+  list-style: none;
+}
+.redes-sociais {
+    width: 20%;
+    float: right;
+}
+
+
+
+.menu ul li  {
+    display: inline-block;
+}
+.menu2 ul li a {
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    float: left; 
+   
+}
+.menu2 ul li {
+    margin-left: 5%;
+}
+
+.busca {
+    text-align: center;
+    width: 18%;
+    float: right;
+    
+}
+.busca input {
+    border: 3px solid red
+}
